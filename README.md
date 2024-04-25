@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will Mannel</h1>
-<h3 align="center">UT Austin CS '24</h3>
+<h3 align="center">UT Austin CS</h3>
 
 - 🔭 I’m currently working on **beating the Leetcode 75 with one line of code. Yes, actually.**
 
